@@ -1,7 +1,7 @@
 <template>
     <div class="hello">
         <h1>{{ msg }}</h1> 
-        <p>Hey new here</p> 
+        <p>Hey new here new</p> 
         <h1>{{ msg }}</h1>
         <h3>Installed CLI Plugins.</h3>
         <p>
