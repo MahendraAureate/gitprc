@@ -1,0 +1,16 @@
+- Key takeaways
+    - git is version control system, it has a distrubuted architecture,
+    - it provides a flexible enviroment to work collaboratively and securely 
+    - you can create and manage remote respo using Git 
+    - Git facilitates the branching and merging of the files within the main repo.
+    - Git Allows every user to have a copy of the project files locally,
+      thus making the files in the server secure.
+    - There are three level of configuration in Git: system level, Global level, local level  
+
+Lesson - 2 
+    Creating a Git repo
+    Git WorkFlow
+    Tracking file charges
+    Reverting to earlirt commit
+    Deleting files in Git 
+    Ignoring files in git 
